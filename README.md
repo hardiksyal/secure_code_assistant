@@ -21,7 +21,7 @@ A Streamlit app for identifying and fixing security vulnerabilities in code snip
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/code-security-assistant.git
+    git clone [https://github.com/your-username/code-security-assistant.git](https://github.com/hardiksyal/secure_code_assistant.git)
     cd code-security-assistant
     ```
 
