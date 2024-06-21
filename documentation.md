@@ -144,22 +144,32 @@ After analyzing a GitHub repository, the app saves the secure versions of the co
 
 ### Analyze Pasted Code Snippet
 
-![[Pasted image 20240621152242.png]]
+![Pasted image 20240621152242](https://github.com/hardiksyal/secure_code_assistant/assets/63895326/8e60ca4e-c8e5-488e-b393-e4fb532d9171)
+
 ### Analyze Uploaded Code File
 
-![[Pasted image 20240621144324.png]]
+![Pasted image 20240621144324](https://github.com/hardiksyal/secure_code_assistant/assets/63895326/ea07a9e3-e543-4d2e-bc7a-a9af15a65b58)
 
-**Explanation given : -** ![[Pasted image 20240621144708.png]]
 
-**And the Secure Code provided by the same :-** ![[Pasted image 20240621144806.png]]
+**Explanation given : -** 
 
+![Pasted image 20240621144708](https://github.com/hardiksyal/secure_code_assistant/assets/63895326/76727c04-e982-4bb4-92f8-0bf72d1ba679)
+
+**And the Secure Code provided by the same :-** 
+
+![Pasted image 20240621144806](https://github.com/hardiksyal/secure_code_assistant/assets/63895326/2e3c4c0f-83ae-4095-93af-8a7ffd996dc8)
 
 ### Analyze GitHub Repository
 
-**New Session opened and GitHub link provided : -**![[Screenshot (9).png]] **It will analyze the repo file by file and show it accordingly**
+**New Session opened and GitHub link provided : -**
+
+![Screenshot (9)](https://github.com/hardiksyal/secure_code_assistant/assets/63895326/d7970207-9d6a-4a25-9f2c-0014f6e83b7b)
+
+**It will analyze the repo file by file and show it accordingly**
 ### Secure Code Saved in New Folder
 
-![[Pasted image 20240621152031.png]]
+![Pasted image 20240621151941](https://github.com/hardiksyal/secure_code_assistant/assets/63895326/f4313920-e61c-4b3a-a79b-a49b752b5b05)
+
 
 **Secure Code files are saved in the secure_repo file with the same name folders as in the GitHub**
 
