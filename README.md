@@ -68,3 +68,6 @@ Run the Streamlit app with the following command:
 
 ```bash
 streamlit run app.py
+
+
+Note: I chose the Gemini API because it is currently free to use and provides fast responses with the Gemini Flash model. With a few modifications, you can also configure the application to use the OpenAI API if desired.
